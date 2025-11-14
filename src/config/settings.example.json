@@ -1,0 +1,7 @@
+{
+  "rate_limit_ms": 500,
+  "cookies": {
+    "m-b": "your_cookie_here",
+    "m-lat": "your_cookie_here"
+  }
+}
